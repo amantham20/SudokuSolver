@@ -1,4 +1,4 @@
-# SukukoSolver
+# SudokuSolver
 Recursion visualization
 This is project to show backtracking for Sudoko in JAVA.
 
